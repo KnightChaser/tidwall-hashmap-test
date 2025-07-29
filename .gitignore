@@ -1,3 +1,6 @@
+# clang(d) cache
+.cache
+
 # Prerequisites
 *.d
 
